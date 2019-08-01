@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["2d0d39cb"],{"5e05":function(e,n,t){"use strict";t.r(n);var l=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("q-page",{staticClass:"flex flex-center"},[t("h4",[e._v("Волонтёры")])])},c=[],s=t("2877"),a={},r=Object(s["a"])(a,l,c,!1,null,null,null);n["default"]=r.exports}}]);
